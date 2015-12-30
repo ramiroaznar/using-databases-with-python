@@ -10,6 +10,6 @@ Data and scripts from the Coursera MOOC Using Databases with Python assessments.
 ## Week 3
 
 - tracks.py,
-- tracksdb.sqlite.
+- trackdb.sqlite.
 
 
