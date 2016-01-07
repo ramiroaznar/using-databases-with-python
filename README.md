@@ -10,4 +10,6 @@ Data and scripts from the Coursera MOOC Using Databases with Python assessments.
 
 - tracks.py
 
+## Week 4
 
+- roster.py
