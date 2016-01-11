@@ -16,5 +16,5 @@ Data and scripts from the Coursera MOOC Using Databases with Python assessments.
 
 ## Week 5
 
-- geodata.py,
+- geoload.py,
 - geodump.py
